@@ -31,4 +31,3 @@ export const GerneSchema = `{
     gerne: String
     books: [Book]
   }`
-

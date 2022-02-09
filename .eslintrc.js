@@ -18,7 +18,6 @@ module.exports = {
         'space-unary-ops': 2,
         'react/prop-types': 'off',
         'no-return-await': 'off',
-        'sort-imports': 'on',
         'no-underscore-dangle': 'off',
         'max-len': [
             'warn',
